@@ -4,7 +4,11 @@
         <title>GoalBooster</title>
         <item>
             <title>Version 1.0.4</title>
-            <enclosure url="" sparkle:version="1.0.4" />
+            <enclosure url="" sparkle:version="1.0.4" sparkle:os="android" />
         </item>
+        <item>
+        <title>Version 1.0.4</title>
+        <enclosure url="" sparkle:version="1.0.4" sparkle:os="iOS" />
+    </item>
     </channel>
 </rss>
