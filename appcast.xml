@@ -3,12 +3,12 @@
     <channel>
         <title>GoalBooster</title>
         <item>
-            <title>Version 1.0.4</title>
-            <enclosure url="" sparkle:version="1.0.4" sparkle:os="android" />
+            <title>Version 1.0.3</title>
+            <enclosure url="" sparkle:version="1.0.3" sparkle:os="android" />
         </item>
         <item>
-        <title>Version 1.0.4</title>
-        <enclosure url="" sparkle:version="1.0.4" sparkle:os="iOS" />
+        <title>Version 1.0.3</title>
+        <enclosure url="" sparkle:version="1.0.3" sparkle:os="iOS" />
     </item>
     </channel>
 </rss>
